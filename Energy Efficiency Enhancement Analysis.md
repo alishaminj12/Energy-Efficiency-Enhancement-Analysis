@@ -12,7 +12,16 @@ The world heavily relies on various electrical devices, from small household bul
 ##  Data
 
 ### Description
-Provide a brief overview of the dataset used.
+This dataset offers detailed insights into the energy efficiency of various electrical devices.
+
+- **Data sources:** Acquired from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), a recognized resource for machine learning researchers and enthusiasts offering datasets for varied domains.
+- **Data size:** Approximately 36 KB
+- **Data shape:** 
+  - **Rows:** 300
+  - **Columns:** 4
+- **Time period:** The dataset does not specify a distinct time span but offers a snapshot of device efficiencies at a particular point.
+- **Each Row Represents:** Efficiency metrics and other pertinent details of an individual electrical device.
+
 
 ### Data Dictionary
 
