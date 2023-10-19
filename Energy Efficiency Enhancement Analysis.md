@@ -31,10 +31,23 @@ Provide a brief overview of the dataset used.
 ##  Exploratory Data Analysis (EDA)
 
 This section involved analyzing the data to understand the distribution of variables, correlations, and patterns. 
+### Correlation Heatmap
 
-### Key Insights from EDA
-- Summary statistics of the primary variables were computed.
-- Visualizations, like pair plots, helped in understanding the relationships between variables.
+![Correlation Heatmap](https://github.com/alishaminj12/Energy-Efficiency-Enhancement-Analysis/blob/main/Correlation%20Heatmap.png)
+
+This heatmap gives insights into the relationships between the variables.
+
+### Data Distribution and Relationships
+
+![Clusters of Consumption](https://github.com/alishaminj12/Energy-Efficiency-Enhancement-Analysis/blob/main/Clusters%20of%20Consumption.png)
+
+The above visualization categorizes devices based on their power consumption, providing insights into efficiency patterns.
+
+### Dendrogram Visualization
+
+![Dendrogram](https://github.com/alishaminj12/Energy-Efficiency-Enhancement-Analysis/blob/main/Dendrogram.png)
+
+The dendrogram showcases the hierarchical clustering process, offering an understanding of how different devices relate in terms of efficiency.
 
 ##  Model Implementation and Evaluation
 
